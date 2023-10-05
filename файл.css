@@ -1,0 +1,24 @@
+/* Завдання в CSS*/
+
+/* 1. */
+.font-formatting {
+font-family: Arial, sans-serif;
+font-size: 18px;
+font-weight: bold;
+}
+/* 2. */
+.text-formatting{
+color: #0000FF;
+text-align: center;
+line-height: 1.5;
+}
+/* 3. */
+.spacing {
+padding: 20px;
+margin: 10px;
+}
+/* 4. */
+.border {
+border: 2px dotted #FF0000;
+border-radius: 10px;
+}
